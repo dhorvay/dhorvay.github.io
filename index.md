@@ -6,11 +6,21 @@ layout: default
 My background is in machine learning engineering with a specialization in document understanding systems, system architecture, and event-driven orchestration engines.
 
 ## Professional Timeline
-| | | | |
-|:--:|:---|:---|:---|
-| <img width="75" src="./assets/img/jpmorgan.png" alt="J.P. Morgan"> | [J.P. Morgan](https://www.jpmorgan.com/global) | Senior Software Engineer, Corporate Investment Bank | 2017- |
-| <img width="75" src="./assets/img/temple.png" alt="Temple University"> | [Temple University](https://www.temple.edu) | Adjunct Professor, College of Science and Technology | 2022- |
-| | | | |
+
+<table>
+  <tr>
+    <td><img width="75" src="./assets/img/jpmorgan.png" alt="J.P. Morgan"></td>
+    <td><a href="https://www.jpmorgan.com/global">J.P Morgan</a></td>
+    <td>Senior Software Engineer, Corporate Investment Bank</td>
+    <td>2017-</td>
+  </tr>
+  <tr>
+    <td><img width="75" src="./assets/img/temple.png" alt="Temple University"></td>
+    <td><a href="https://www.temple.edu">Temple University</a></td>
+    <td>Adjunct Professor, College of Science and Technology</td>
+    <td>2022-</td>
+  </tr>
+</table>
 
 # Projects
 
