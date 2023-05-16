@@ -3,6 +3,7 @@ author: Devin Horvay
 baseurl: ""
 url: "https://dhorvay.github.io/"
 github_username: dhorvay
+logo: /assets/img/profile.jpeg
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
