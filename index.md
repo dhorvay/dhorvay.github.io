@@ -3,7 +3,7 @@ layout: default
 ---
 # Experience
 
-My background is in machine learning engineering with a specialization in document understanding,, system architecture, and event-driven orchestration engines.
+My background is in machine learning engineering with a specialization in document understanding, system architecture, and event-driven orchestration engines.
 
 ## Professional Timeline
 
