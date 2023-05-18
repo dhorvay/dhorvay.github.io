@@ -3,7 +3,7 @@ layout: default
 ---
 # Experience
 
-My background is in machine learning engineering with a specialization in document understanding systems, system architecture, and event-driven orchestration engines.
+My background is in machine learning engineering with a specialization in document understanding,, system architecture, and event-driven orchestration engines.
 
 ## Professional Timeline
 
@@ -21,6 +21,12 @@ My background is in machine learning engineering with a specialization in docume
     <td>2022-</td>
   </tr>
 </table>
+
+# Teaching
+
+I am currently an adjunct professor at Temple University teaching the Information Science & Technology capstone course Information Systems Implementation - CIS4396.
+
+You can find more [here.](https://sites.temple.edu/horvay/)
 
 # Projects
 
