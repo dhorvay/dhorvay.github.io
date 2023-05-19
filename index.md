@@ -34,6 +34,7 @@ I have been actively developing projects on [GitHub](https://github.com/dhorvay)
 <br>
 If you are interested in my work you can follow my progress: &ensp; 
 <a class="github-button" href="https://github.com/dhorvay" data-show-count="true" aria-label="Follow @dhorvay on GitHub">Follow @dhorvay</a>
+## Active Development
 <table>
   <tr>
     <td><img width="150" src="./assets/img/document-understanding-ebook-logo.png" alt="J.P. Morgan"></td>
