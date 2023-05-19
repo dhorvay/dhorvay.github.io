@@ -37,9 +37,8 @@ If you are interested in my work you can follow my progress: &ensp;
 ## Active Development
 <table>
   <tr>
-    <td><img width="150" src="./assets/img/document-understanding-ebook-logo.png" alt="J.P. Morgan"></td>
+    <td><img src="./assets/img/document-understanding-ebook-logo.png" alt="Document Understanding eBook"></td>
     <td><a href="https://horvay.dev/document-understanding-ebook">Document Understanding eBook</a></td>
-    <td>A comprehensive resource for understanding the world of software used in the Document Understanding field.</td>
     <td>
 <a class="github-button" href="https://github.com/dhorvay/document-understanding-ebook" data-icon="octicon-star" aria-label="Star dhorvay/document-understanding-ebook on GitHub">Star</a></td>
   </tr>
