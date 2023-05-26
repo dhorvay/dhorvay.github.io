@@ -36,7 +36,7 @@ My background is in machine learning engineering with a specialization in docume
   <tr>
     <td><img width="75" src="./assets/img/temple.png" alt="Temple University"></td>
     <td><a href="https://www.temple.edu">Temple University</a></td>
-    <td>Bacherlor of Science, Information Science and Technology</td>
+    <td>Bachelor of Science, Information Science and Technology</td>
     <td>2017</td>
   </tr>
 </table>
@@ -51,7 +51,7 @@ You can find more [here.](https://sites.temple.edu/horvay/)
 
 I have been actively developing projects on [GitHub](https://github.com/dhorvay).
 <br>
-If you are interested in my work you can follow my progress: &ensp; 
+You can follow my progress here: &ensp; 
 <a class="github-button" href="https://github.com/dhorvay" data-show-count="true" aria-label="Follow @dhorvay on GitHub">Follow @dhorvay</a>
 ## Active Development
 <table>
