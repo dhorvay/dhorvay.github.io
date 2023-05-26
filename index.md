@@ -22,6 +22,25 @@ My background is in machine learning engineering with a specialization in docume
   </tr>
 </table>
 
+# Education
+
+## Degrees
+
+<table>
+  <tr>
+    <td><img width="75" src="./assets/img/ud.jpeg" alt="University of Delaware"></td>
+    <td><a href="https://www.msds.udel.edu/">University of Delaware</a></td>
+    <td>Master of Science, Data Science</td>
+    <td>2022</td>
+  </tr>
+  <tr>
+    <td><img width="75" src="./assets/img/temple.png" alt="Temple University"></td>
+    <td><a href="https://www.temple.edu">Temple University</a></td>
+    <td>Bacherlor of Science, Information Science and Technology</td>
+    <td>2017</td>
+  </tr>
+</table>
+
 # Teaching
 
 I am currently an adjunct professor at Temple University teaching the Information Science & Technology capstone course Information Systems Implementation - CIS4396.
