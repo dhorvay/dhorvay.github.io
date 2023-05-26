@@ -50,8 +50,7 @@ You can find more [here.](https://sites.temple.edu/horvay/)
 # Projects
 
 I have been actively developing projects on [GitHub](https://github.com/dhorvay).
-<br>
-You can follow my progress here: &ensp; 
+
 <a class="github-button" href="https://github.com/dhorvay" data-show-count="true" aria-label="Follow @dhorvay on GitHub">Follow @dhorvay</a>
 ## Active Development
 <table>
