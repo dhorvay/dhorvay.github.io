@@ -11,7 +11,7 @@ My background is in machine learning engineering with a specialization in docume
   <tr>
     <td><img width="75" src="./assets/img/jpmorgan.png" alt="J.P. Morgan"></td>
     <td><a href="https://www.jpmorgan.com/global">J.P Morgan</a></td>
-    <td>Senior Software Engineer, Corporate Investment Bank</td>
+    <td>Lead Software Engineer, Vice President, Corporate Investment Bank</td>
     <td>2017-</td>
   </tr>
   <tr>
@@ -43,7 +43,9 @@ My background is in machine learning engineering with a specialization in docume
 
 # Teaching
 
-I am currently an adjunct professor at Temple University teaching the Information Science & Technology capstone course Information Systems Implementation - CIS4396.
+I am currently an adjunct professor at Temple University teaching the Information Science & Technology capstone course Information Systems Analysis and Design - CIS4296.
+
+Previously, I have taught the Information Science & Technology capstone course Information Systems Implementation - CIS4396.
 
 You can find more [here.](https://sites.temple.edu/horvay/)
 
